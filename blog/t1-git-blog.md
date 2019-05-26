@@ -3,9 +3,9 @@
 
 As a programmer, when you are given a feature to build out, there are usually multiple ways to arrive at that solution. Sometimes, you have no idea what you are doing, and you would create a version just to experiment. Overtime, your project may become increasingly complex and large, and soon you'll face a few of these problems that all developers face.
 
-    1. Keeping track of multiple versions of the code becomes difficult
-    2. Remembering which modification was made to which version is almost impossible
-    3. You modified an important piece of code from the inccorect version, and you are having a difficult time reverting your changes.
+    1. You don't know how to keep track of all the versions of your project
+    2. You don't know how to keep track of all the changes you've made to your project
+    3. You accidentally introduced a bug into your project, and you don't have a way of reverting back to the previous state
 
 This is where version control systems really shine! At it's core, version control systems provide the ability to keep track of changes of all of your files, over time. As you create different version of your code, it is all recorded by the system. You can easily switch between your current version and earlier versions. And when you realize that you've made a mistake, all you have to do is find your way back to the previous version.
 
